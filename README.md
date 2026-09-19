@@ -4,7 +4,7 @@
 Psiquiatra de niños y adolescentes. Ciudad de Guatemala.
 
 ## Líneas de trabajo
--Atención en linea
+- Atención en linea
 - Formación de posgrado en psiquiatría infanto-juvenil
 - Salud mental infantil y determinantes sociales
 - Cooperación regional en psiquiatría de la infancia
