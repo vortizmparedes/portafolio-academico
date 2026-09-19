@@ -1,4 +1,4 @@
-# portafolio-academico
+
 # Virginia María Ortíz Paredes
 
 Psiquiatra de niños y adolescentes. Ciudad de Guatemala.
@@ -11,4 +11,4 @@ Psiquiatra de niños y adolescentes. Ciudad de Guatemala.
 
 ## Contacto
 
-ORCID: [0000-0001-5172-9713
+ORCID: 0000-0001-5172-9713
